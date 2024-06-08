@@ -1,4 +1,4 @@
-#MODULE 2-Login Page Module (login_page.py):
+#MODULE 2-Login Page Module:
 #Creates the login page UI.
 #Handles login logic.
 # login_page.py
