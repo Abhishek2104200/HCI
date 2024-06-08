@@ -8,7 +8,7 @@ def load_image(file_path):
  image = Image.open(file_path)
  return image
  except Exception as e:
-print("Error loading image:", e)
+ print("Error loading image:", e)
  return None
 
 def create_photo_image(image):
