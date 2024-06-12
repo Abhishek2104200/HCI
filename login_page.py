@@ -1,5 +1,6 @@
 #MODULE 2-Login Page Module:
 #Creates the login page UI.
+#handles login logic 
 # login_page.py
 import tkinter as tk
 class LoginPage:
