@@ -1,6 +1,6 @@
 #MODULE-4-Image Augmentation Module (image_augmentation.py):
 #Contains functions for image augmentation.
-# image_augmentation.py
+#image_augmentation.py
 import cv2
 import numpy as np
 def adjust_brightness(image, value):
