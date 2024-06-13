@@ -1,5 +1,5 @@
 MODULE 3-Image Module (image.py):
-#Handles image loading and display
+#Handles with image loading and display
 # image.py
 from PIL import Image, ImageTk
 
